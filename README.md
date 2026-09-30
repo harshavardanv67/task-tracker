@@ -2,4 +2,8 @@
 Practice project for learning GitHub project management
 
 ## About
-A simple to-do list app we build while learning GitHub project
+A simple web app where users can add, complete, and delete tasks.
+
+# Team
+
+- Project Manager: Harsha
